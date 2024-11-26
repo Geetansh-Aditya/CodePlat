@@ -1,0 +1,4 @@
+For the index.html
+
+Give me a html, css and js file for a coding platform that looks very similar to the leetcode. Make it look like
+leetcode. Give some space for the terminal. Use monaco editor. Give the submit and runcode options.
